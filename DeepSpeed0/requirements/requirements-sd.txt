@@ -1,0 +1,2 @@
+diffusers
+triton>=2.1.0
